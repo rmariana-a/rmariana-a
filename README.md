@@ -4,7 +4,7 @@
                  **❤️‍🔥❤️‍🔥❤️‍🔥**
 ---
  
-Soy estudiante de **Ingeniería Electrónica** en la **Ciudad de Bogotá**.Con interes en el **análisis de circuitos**, el **diseño de algoritmos**,y la **innovación tecnológica**,de tal forma que al aplicar estos conocimientos en proyectos prácticos se logre integrar **hardware y software**. Mi visión es profundizar en el área de **energías** dentro de la ingeniería electrónica y desarrollar soluciones que tengan impacto en la vida real.  
+Soy estudiante de **Ingeniería Electrónica** en la **Ciudad de Bogotá** con interes en el **análisis de circuitos**, el **diseño de algoritmos**,y la **innovación tecnológica**,de tal forma que al aplicar estos conocimientos en proyectos prácticos se logre integrar **hardware y software**. Mi visión es profundizar en el área de **energías** dentro de la ingeniería electrónica y desarrollar soluciones que tengan impacto en la vida real.  
 
 ---
 
@@ -14,7 +14,7 @@ Soy estudiante de **Ingeniería Electrónica** en la **Ciudad de Bogotá**.Con i
 - Trabajo en equipo y colaboración en proyectos  
 ---
 
-## 📚 Actualmente  
+## 📚 Actualmente
 -  Cursando 5° semestre de Ingeniería Electrónica.  
 -  Ampliando mis conocimientos en **programación y energías**.  
 -  Participando en proyectos académicos y personales. 
