@@ -1,16 +1,26 @@
-## Hi there 👋
+# ¡Hola, soy Mariana Lombana! 👩‍💻  
 
-<!--
-**rmariana-a/rmariana-a** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🦾 ***Estudiante de Ingeniería Electrónica*** 🦿
+                 **❤️‍🔥❤️‍🔥❤️‍🔥**
+---
+ 
+Soy estudiante de **Ingeniería Electrónica** en la **Ciudad de Bogotá**.Con interes en el **análisis de circuitos**, el **diseño de algoritmos**,y la **innovación tecnológica**,de tal forma que al aplicar estos conocimientos en proyectos prácticos se logre integrar **hardware y software**. Mi visión es profundizar en el área de **energías** dentro de la ingeniería electrónica y desarrollar soluciones que tengan impacto en la vida real.  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Habilidades  
+- Curiosidad por aprender y mejorar cada día  
+- Capacidad de análisis y resolución de problemas  
+- Trabajo en equipo y colaboración en proyectos  
+---
+
+## 📚 Actualmente  
+-  Cursando 5° semestre de Ingeniería Electrónica.  
+-  Ampliando mis conocimientos en **programación y energías**.  
+-  Participando en proyectos académicos y personales. 
+
+---
+
+## 📫 Cómo contactarme  
+📧 **Email:** [mariana.lombana@email.com]
+💼 **LinkedIn:** [linkedin.com/in/marianalombana](https://linkedin.com/in/marianalombana)  
