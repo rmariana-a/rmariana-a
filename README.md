@@ -21,6 +21,6 @@ Soy estudiante de **Ingeniería Electrónica** en la **Ciudad de Bogotá**.Con i
 
 ---
 
-## 📫 Cómo contactarme  
+## 📫 Contactarme como:  
 📧 **Email:** [mariana.lombana@email.com]
 💼 **LinkedIn:** [linkedin.com/in/marianalombana](https://linkedin.com/in/marianalombana)  
