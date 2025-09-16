@@ -1,4 +1,4 @@
-# ¡Hola, soy Mariana Lombana!   
+# ¡Hola, soy Mariana!   
 
 🦾 ***Estudiante de Ingeniería Electrónica*** 🦿
                  **❤️‍🔥❤️‍🔥❤️‍🔥**
